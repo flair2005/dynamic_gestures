@@ -5,7 +5,7 @@
 \usepackage{graphicx}
 \graphicspath{{./img/}}
 \usepackage[margin=2.5cm]{geometry}
-\usepac
+\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
 %\usepackage{times}  % zmiana czcionki na Times
 
 %------------------------ Strona tytu³owa START ------------------------
