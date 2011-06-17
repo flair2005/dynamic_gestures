@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.2.19)  17 JUN 2011 23:10
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.2.19)  18 JUN 2011 00:25
 entering extended mode
 **sprawozdanie.tex
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.tex"
@@ -107,31 +107,138 @@ Package ifvtex Info: VTeX not detected.
 \Gm@dimlist=\toks17
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2009/10/19 v6.79b Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\ifxetex\ifxetex.sty"
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\oberdiek\hycolor.sty"
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\oberdiek\xcolor-patch.sty"
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen114
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2009/10/19 v6.79b Hyperref: PDFDocEncoding definition (HO)
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+("C:\Program Files\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\bitset.sty"
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\intcalc.sty"
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\bigintcalc.sty"
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count94
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+*hyperref using default driver hpdftex*
+("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2009/10/19 v6.79b Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+)
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 ("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen114
+\scratchcounter=\count99
+\scratchdimen=\dimen117
 \scratchbox=\box26
-\nofMPsegments=\count93
-\nofMParguments=\count94
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen115
-\MPnumerator=\count96
-\everyMPtoPDFconversion=\toks19
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen118
+\MPnumerator=\count103
+\everyMPtoPDFconversion=\toks20
 )
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -174,56 +281,88 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-<./img/agh.jpg, id=1, 146.4672pt x 284.7438pt>
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 59.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count104
+)
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.out")
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.out")
+\@outlinefile=\write3
+\AtBeginShipoutBox=\box27
+<./img/agh.jpg, id=43, 146.4672pt x 284.7438pt>
 File: ./img/agh.jpg Graphic file (type jpg)
  <use ./img/agh.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 59.
+(Font)              <17.28> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 59.
+(Font)              <12> on input line 61.
 [1
 
 {C:/Documents and Settings/All Users/Dane aplikacji/MiKTeX/2.8/pdftex/config/pd
 ftex.map} <D:/IS/Interfejsy Multimodalne/projekt/dynamic_gestures/DOC/img/agh.j
 pg>]
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.toc")
-\tf@toc=\write3
+\tf@toc=\write4
 [2
 
-] [3
-
 ]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+ ("C:\Program Files\MiKTeX 2.8\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+ [3
+
+] [4]
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
  ) 
 Here is how much of TeX's memory you used:
- 1933 strings out of 495238
- 24479 string characters out of 3179441
- 79434 words of memory out of 3000000
- 5157 multiletter control sequences out of 15000+200000
+ 5151 strings out of 495238
+ 73955 string characters out of 3179441
+ 144947 words of memory out of 3000000
+ 8283 multiletter control sequences out of 15000+200000
  11645 words of font info for 28 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
- 25i,5n,32p,212b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,5n,36p,287b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX
-\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Documents and Settings
+\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Documents and Settings
 \Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecbx1200.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\
-Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\D
+\ec\dpi600\ecbx1728.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\
+Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\D
 ocuments and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Documents and Settings\Krzysie
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Documents and Settings\Krzysie
 k\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi6
 00\ecrm2074.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane apl
 ikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Documents
  and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\lj
 four\jknappen\ec\dpi600\ecrm1440.pk> <C:\Documents and Settings\Krzysiek\Ustawi
 enia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
-728.pk>
-Output written on sprawozdanie.pdf (3 pages, 146086 bytes).
+728.pk><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sprawozdanie.pdf (4 pages, 212492 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

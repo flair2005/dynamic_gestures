@@ -1,2 +1,11 @@
 \select@language {polish}
-\contentsline {section}{\numberline {1}SEC1}{3}
+\contentsline {section}{\numberline {1}Abstrakt}{3}{section.1}
+\contentsline {section}{\numberline {2}Wst\k ep}{3}{section.2}
+\contentsline {section}{\numberline {3}Koncepcja proponowanego rozwi\k azania}{3}{section.3}
+\contentsline {section}{\numberline {4}Rezultaty i wnioski}{3}{section.4}
+\contentsline {section}{\numberline {5}Podsumowanie}{3}{section.5}
+\contentsline {section}{\numberline {6}Literatura}{3}{section.6}
+\contentsline {section}{\numberline {7}Dodatek A: Opis opracowanych narz\k edzi i metody post\k epowania}{3}{section.7}
+\contentsline {section}{\numberline {8}Dodatek B: Realizacja proponowanego rozwi\k azania}{3}{section.8}
+\contentsline {section}{\numberline {9}Dodatek C: Opis informatyczny procedur}{4}{section.9}
+\contentsline {section}{\numberline {10}Dodatek D: Spis zawarto\'sci do\IeC {\l }\k aczonych no\'snik\'ow}{4}{section.10}
