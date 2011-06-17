@@ -1,0 +1,27 @@
+# Compiled source #
+###################
+*.com
+*.dll
+*.exe
+*.o
+
+# tutaj sa ponadto pliki avi wrzucane do testow:
+SRC/bin/Debug
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db

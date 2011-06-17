@@ -1,0 +1,7 @@
+﻿Projekt w Code::Blocks 10.05.
+
+Do działania projektu potrzebne są:
+* biblioteka OpenCV w wersji 2.1.0
+* Microsoft Windows Software Development Kit (korzystaliśmy z wersji 7.1)
+
+* biblioteka HTK (do Markowa) - ją na razie ściągnąłem, ale jeszcze nie dołączałem do projektu - jak będzie potrzebna to się pobawię i dam znać gdzie ją kopiować

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dynamic_gestures" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="cygwin" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\dynamic_gestures" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\dynamic_gestures" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:\OpenCV2.1\include\opencv" />
+			<Add directory="C:\OpenCV2.1\lib" />
+			<Add directory="C:\OpenCV2.1\src\highgui" />
+			<Add directory="C:\OpenCV2.1\src\cxcore" />
+			<Add directory="C:\OpenCV2.1\src\cvaux" />
+			<Add directory="C:\OpenCV2.1\src\cv" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\OpenCV2.1\lib\highgui210.lib" />
+			<Add library="C:\OpenCV2.1\lib\cv210.lib" />
+			<Add library="C:\OpenCV2.1\lib\cxcore210.lib" />
+		</Linker>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

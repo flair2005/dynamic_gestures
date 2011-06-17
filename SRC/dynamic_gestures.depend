@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1307814401 source:d:\is\interfejsy multimodalne\projekt\dynamic_gestures\src\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<windows.h>
+	<math.h>
+	<algorithm>
+
+1270462330 c:\opencv2.1\include\opencv\cv.h
+	<chdl.h>
+	"cxcore.h"
+	"cvtypes.h"
+	"cv.hpp"
+	"cvcompat.h"
+
+1270462332 c:\opencv2.1\include\opencv\cxcore.h
+	"ipl.h"
+	"ipl/ipl.h"
+	"cxtypes.h"
+	"cxerror.h"
+	"cvver.h"
+	"cxcore.hpp"
+
+1270468358 c:\opencv2.1\include\opencv\cxtypes.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1270462332 c:\opencv2.1\include\opencv\cxerror.h
+
+1270462332 c:\opencv2.1\include\opencv\cvver.h
+
+1270462332 c:\opencv2.1\include\opencv\cxcore.hpp
+	"cxmisc.h"
+	<algorithm>
+	<cmath>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"cxoperations.hpp"
+	"cxmat.hpp"
+	"cxflann.h"
+
+1270462334 c:\opencv2.1\include\opencv\cxmisc.h
+	<limits.h>
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1270462334 c:\opencv2.1\include\opencv\cxoperations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	"windows.h"
+
+1270462332 c:\opencv2.1\include\opencv\cxmat.hpp
+	<limits.h>
+
+1270462330 c:\opencv2.1\include\opencv\cxflann.h
+
+1270462330 c:\opencv2.1\include\opencv\cvtypes.h
+	<assert.h>
+	<stdlib.h>
+
+1270472656 c:\opencv2.1\include\opencv\cv.hpp
+
+1270462330 c:\opencv2.1\include\opencv\cvcompat.h
+	<string.h>
+
+1270462332 c:\opencv2.1\include\opencv\highgui.h
+	"cxcore.h"
+	<windows.h>
+	<chdl.h>
+	"highgui.hpp"
+
+1270462334 c:\opencv2.1\include\opencv\highgui.hpp
+
