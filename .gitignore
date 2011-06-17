@@ -4,8 +4,6 @@
 *.dll
 *.exe
 *.o
-
-# tutaj sa ponadto pliki avi wrzucane do testow:
 SRC/bin/Debug
 
 # Packages #

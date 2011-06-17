@@ -1,0 +1,229 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.2.19)  17 JUN 2011 23:10
+entering extended mode
+**sprawozdanie.tex
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, polish, loade
+d.
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\polish.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen104
+\pl@down=\dimen105
+\pl@right=\dimen106
+\pl@temp=\dimen107
+))
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\cp1250.def"
+File: cp1250.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\geometry\geometry.sty"
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen114
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen115
+\MPnumerator=\count96
+\everyMPtoPDFconversion=\toks19
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 71.13188pt, 455.24411pt, 71.13188pt
+v-parts: 71.13188pt, 702.78308pt, 71.13188pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  455.24411pt
+\textheight 702.78308pt
+\oddsidemargin  -1.1381pt
+\evensidemargin -1.1381pt
+\topmargin  -38.1381pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 35.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+<./img/agh.jpg, id=1, 146.4672pt x 284.7438pt>
+File: ./img/agh.jpg Graphic file (type jpg)
+ <use ./img/agh.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 59.
+[1
+
+{C:/Documents and Settings/All Users/Dane aplikacji/MiKTeX/2.8/pdftex/config/pd
+ftex.map} <D:/IS/Interfejsy Multimodalne/projekt/dynamic_gestures/DOC/img/agh.j
+pg>]
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.toc")
+\tf@toc=\write3
+[2
+
+] [3
+
+]
+("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
+ ) 
+Here is how much of TeX's memory you used:
+ 1933 strings out of 495238
+ 24479 string characters out of 3179441
+ 79434 words of memory out of 3000000
+ 5157 multiletter control sequences out of 15000+200000
+ 11645 words of font info for 28 fonts, out of 3000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 25i,5n,32p,212b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX
+\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Documents and Settings
+\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecbx1200.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\
+Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\D
+ocuments and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Documents and Settings\Krzysie
+k\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecrm2074.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane apl
+ikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Documents
+ and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\lj
+four\jknappen\ec\dpi600\ecrm1440.pk> <C:\Documents and Settings\Krzysiek\Ustawi
+enia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
+728.pk>
+Output written on sprawozdanie.pdf (3 pages, 146086 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

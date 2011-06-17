@@ -42,6 +42,8 @@
 			<Add library="C:\OpenCV2.1\lib\cxcore210.lib" />
 		</Linker>
 		<Unit filename="main.cpp" />
+		<Unit filename="static_gest.cpp" />
+		<Unit filename="static_gest.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
