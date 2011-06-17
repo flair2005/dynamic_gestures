@@ -2,7 +2,7 @@
  * @file
  * @author  Katarzyna Cwiklinska
  * @author  Krzysztof Kutt
- * @version 1.0
+ * @version 0.1
  *
  * @section LICENSE
  *
@@ -44,7 +44,7 @@
 //te dwa byly zalaczone w projekcie Hand Gestures
 //jezeli nam tez beda potrzebne to sie odkomentuje
 #include <math.h>
-#include <algorithm>
+//#include <algorithm>
 
 using namespace std;
 
@@ -236,7 +236,7 @@ void binary(){
 	free(points1);
 	free(hull);
 
-	//dla ulatwienia sobie rzycia obraz przechowujacy przestrzenie miedzy palcami przekształcamy do tablicy int
+	//dla ulatwienia sobie zycia obraz przechowujacy przestrzenie miedzy palcami przekształcamy do tablicy int
 	for(int i = 0; i<height; i++){
 		for(int j=0; j<width; j++){
 			uchar *t = &CV_IMAGE_ELEM(T,uchar,i,j);
