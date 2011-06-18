@@ -41,9 +41,11 @@
 			<Add library="C:\OpenCV2.1\lib\cv210.lib" />
 			<Add library="C:\OpenCV2.1\lib\cxcore210.lib" />
 		</Linker>
+		<Unit filename="StaticGest.cpp" />
+		<Unit filename="StaticGest.h" />
+		<Unit filename="SystemAPI.cpp" />
+		<Unit filename="SystemAPI.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="static_gest.cpp" />
-		<Unit filename="static_gest.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />

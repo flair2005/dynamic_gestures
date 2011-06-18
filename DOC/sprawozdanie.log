@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=latex 2011.2.19)  18 JUN 2011 00:29
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.2.19)  18 JUN 2011 12:49
 entering extended mode
 **sprawozdanie.tex
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.tex"
@@ -77,10 +77,11 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\dvips.def"
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count88
 ))
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
@@ -90,15 +91,15 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 
 ("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode not detected.
+Package ifpdf Info: pdfTeX in pdf mode detected.
 )
 ("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
 \Gm@bindingoffset=\dimen110
 \Gm@wd@mp=\dimen111
 \Gm@odd@mp=\dimen112
@@ -120,8 +121,8 @@ O)
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
 \@linkdim=\dimen114
-\Hy@linkcounter=\count91
-\Hy@pagecounter=\count92
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2009/10/19 v6.79b Hyperref: PDFDocEncoding definition (HO)
@@ -187,7 +188,7 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )))
-\Fld@menulength=\count93
+\Fld@menulength=\count94
 \Field@Width=\dimen115
 \Fld@charsize=\dimen116
 \Field@toks=\toks18
@@ -202,22 +203,15 @@ Package hyperref Info: PDF/A mode OFF on input line 4407.
 ("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 )
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
 )
-*hyperref using default driver hdvips*
-("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\hdvips.def"
-File: hdvips.def 2009/10/19 v6.79b Hyperref driver for dvips
-
-("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\pdfmark.def"
-File: pdfmark.def 2009/10/19 v6.79b Hyperref definitions for pdfmark specials
-\pdf@docset=\toks19
-\pdf@box=\box26
-\pdf@toks=\toks20
-\pdf@defaulttoks=\toks21
-\Fld@listcount=\count97
-))
+*hyperref using default driver hpdftex*
+("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2009/10/19 v6.79b Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+)
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -233,8 +227,21 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
+("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen117
+\scratchbox=\box26
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen118
+\MPnumerator=\count103
+\everyMPtoPDFconversion=\toks20
+)
 *geometry auto-detecting driver*
-*geometry detected driver: dvips*
+*geometry detected driver: pdftex*
 -------------------- Geometry parameters
 paper: a4paper
 landscape: --
@@ -252,7 +259,7 @@ truedimen: --
 includehead: --
 includefoot: --
 includemp: --
-driver: dvips
+driver: pdftex
 -------------------- Page layout dimensions and switches
 \paperwidth  597.50787pt
 \paperheight 845.04684pt
@@ -280,11 +287,8 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 ("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 130.
-
-("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\dvipsnam.def"
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
-))
+Package color Info: Driver file: pdftex.def on input line 130.
+)
 Package hyperref Info: Link coloring ON on input line 59.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
@@ -293,7 +297,7 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count98
+\c@section@level=\count104
 )
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
@@ -302,8 +306,9 @@ LaTeX Info: Redefining \pageref on input line 59.
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.out")
 \@outlinefile=\write3
 \AtBeginShipoutBox=\box27
-File: ./img/agh.eps Graphic file (type eps)
-<./img/agh.eps>
+<./img/agh.jpg, id=43, 146.4672pt x 284.7438pt>
+File: ./img/agh.jpg Graphic file (type jpg)
+ <use ./img/agh.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
@@ -314,7 +319,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 61.
 [1
 
-]
+{C:/Documents and Settings/All Users/Dane aplikacji/MiKTeX/2.8/pdftex/config/pd
+ftex.map} <D:/IS/Interfejsy Multimodalne/projekt/dynamic_gestures/DOC/img/agh.j
+pg>]
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.toc")
 \tf@toc=\write4
 [2
@@ -332,12 +339,32 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 ("D:\IS\Interfejsy Multimodalne\projekt\dynamic_gestures\DOC\sprawozdanie.aux")
  ) 
 Here is how much of TeX's memory you used:
- 4955 strings out of 495239
- 71891 string characters out of 3179464
- 140162 words of memory out of 3000000
- 8105 multiletter control sequences out of 15000+200000
- 11645 words of font info for 28 fonts, out of 3000000 for 9000
+ 5154 strings out of 495238
+ 73994 string characters out of 3179441
+ 144993 words of memory out of 3000000
+ 8284 multiletter control sequences out of 15000+200000
+ 12995 words of font info for 30 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
- 38i,5n,36p,287b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,5n,36p,287b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX
+\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Documents and Settings
+\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecbx1728.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\
+Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk> <C:\D
+ocuments and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Documents and Settings\Krzysie
+k\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecrm1200.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane apl
+ikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1728.pk> <C:\Documents
+ and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\lj
+four\jknappen\ec\dpi600\ecbx2074.pk> <C:\Documents and Settings\Krzysiek\Ustawi
+enia lokalne\Dane aplikacji\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
+440.pk> <C:\Documents and Settings\Krzysiek\Ustawienia lokalne\Dane aplikacji\M
+iKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files/MiKT
+eX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sprawozdanie.pdf (4 pages, 214796 bytes).
+PDF statistics:
+ 421 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on sprawozdanie.dvi (4 pages, 14560 bytes).

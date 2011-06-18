@@ -5,7 +5,7 @@
 \usepackage{graphicx}
 \graphicspath{{./img/}}
 \usepackage[margin=2.5cm]{geometry}
-\usepac
+\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
 %\usepackage{times}  % zmiana czcionki na Times
 
 %------------------------ Strona tytu³owa START ------------------------
@@ -27,13 +27,13 @@ im. Stanis³awa Staszica w Krakowie}
 \includegraphics[scale=0.45]{agh}
 \vspace*{1cm}
 
-{\LARGE{\bfseries PRMM113\_DYNAMIC\_GESTURES \\ Rozpoznawanie dynamicznych gestów }}\\\vspace*{1.5cm}
-{\LARGE Katarzyna Æwikliñska \\ Krzysztof Kutt \\ \normalsize III Rok Informatyki Stosowanej}\\\vspace*{1.5cm}
+{\LARGE PRMM113\_DYNAMIC\_GESTURES \\ {\bfseries \textsc{Rozpoznawanie dynamicznych gestów d³oni przy u¿yciu algorytmu HMM} }}\\\vspace*{1.5cm}
+{\Large Katarzyna \textsc{Æwikliñska} \\ Krzysztof \textsc{Kutt} \\ \normalsize III Rok Informatyki Stosowanej}\\\vspace*{1.5cm}
 
 \begin{flushright}
-\begin{minipage}[!h]{7cm}
+\begin{minipage}[!h]{6.5cm}
 \large \textbf{Przedmiot:} \\ Interfejsy Multimodalne \\ \\
-\textbf{Konsultant:} \\ dr in¿. Miros³aw Jab³oñski %\@promotor
+\textbf{Konsultant:} \\ dr in¿. Miros³aw \textsc{Jab³oñski} %\@promotor
 \end{minipage}
 \end{flushright}
 

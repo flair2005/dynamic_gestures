@@ -5,8 +5,8 @@
  * @version 0.1
  */
 
-#ifndef STATIC_GEST_H
-#define STATIC_GEST_H
+#ifndef STATICGEST_H
+#define STATICGEST_H
 
 /**
  * Klasa odpowiedzialna za rozpoznawanie statycznych gestow.
@@ -18,12 +18,12 @@
  * Michala Czajke, Grazyne Golakiewicz i Pawla Klimka.
  */
 
-class static_gest
+class StaticGest
 {
     public:
-        static_gest();
+        StaticGest();
     protected:
     private:
 };
 
-#endif // STATIC_GEST_H
+#endif // STATICGEST_H
