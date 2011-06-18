@@ -30,21 +30,39 @@
  *
  */
 
-//definicja potrzebna, aby korzystac z WinAPI (biblioteki WinAPI sprawdzają
-//ten parametr i jeżeli nie jest dobrze ustawiony to nie zalaczaja sie)
-#ifndef _WIN32_WINNT
-#define _WIN32_WINNT 0x0500
-#endif
+/**
+INFO:
+- stosujemy angielskie nazewnictwo klas i zmiennych
+- ale: stosujemy polskie komentarze i wyświetlane teksty (tak stworzony kod jest
+  łatwy do zrozumienia przez obcokrajowców i łatwy do tłumaczenia - kwestia podmiany
+  stringów)
+
+TODO LIST:
+- klasa StaticGest na podstawie kodu z projektu Hand Gestures, rozbić to na zestaw
+  funkcji zamiast jednej dużej
+- osobna klasa odpowiedzialna za wyświetlanie GUI? albo zrobić to w mainie
+- wyznaczanie wektorów przesunięcia (na podstawie kodu z projektu Temporal HMM),
+  na ich podstawie będzie działał Markow (ustalić jak to dokładnie ma wyglądać na
+  podstawie podręcznika do biblioteki)
+- obsługa biblioteki HTK (do Markowa) - albo poprzez osobną klasę, albo bezpośrednio
+  funkcje z biblioteki - się zobaczy jak to będzie wyglądało w praktyce; przy
+  określonym geście, np całej dłoni, sterujemy kursorem, przy innym geście klikamy,
+  a pozostałe gesty są na Markowa
+- sterowanie kursorem oprzeć na bazie wektorów przesunięcia! dzięki temu nie będzie
+  tak dziwnie latał - wektory przesunięcia powstają na podstawie kilku minimalnych
+  ruchów, więc będą uśredniały niedoskonałości i powinno się polepszyć sterowanie
+- stworzenie jakichś filmików do ćwiczeń
+- obsługa funkcji systemowych - jak już projekt będzie działał w miarę to dopisać
+  minimalizację, maksymalizację, zamknięcie okna, etc
+- obsługa kamery - np. dynamicznie ustawiane progi binaryzacji (bo w prostych
+  kamerkach chyba nie da się zablokować automatycznie ustawianej jasności obrazu)
+
+*/
 
 #include <iostream>
 #include <cv.h>
 #include <highgui.h>
-#include <windows.h>
-
-//te dwa byly zalaczone w projekcie Hand Gestures
-//jezeli nam tez beda potrzebne to sie odkomentuje
-#include <math.h>
-//#include <algorithm>
+#include "SystemAPI.h"
 
 using namespace std;
 
@@ -87,44 +105,6 @@ int gestLicznik; //licznik dla ustalaniea gestow
 int kamera;
 char * sciezka;
 
-void lewyNacisnij(){ //naciska lewy klawisz
-	INPUT input;
-	ZeroMemory(&input,sizeof(INPUT));
-	input.type = INPUT_MOUSE;
-	input.mi.dwFlags = MOUSEEVENTF_LEFTDOWN;
-	SendInput(1,&input,sizeof(INPUT));
-}
-
-void lewyPusc(){ //puszcza lewy klawisz
-	INPUT input;
-	ZeroMemory(&input,sizeof(INPUT));
-	input.type = INPUT_MOUSE;
-	input.mi.dwFlags = MOUSEEVENTF_LEFTUP;
-	SendInput(1,&input,sizeof(INPUT));
-}
-
-void prawyNacisnij(){ //naciska prawy klawisz
-	INPUT input;
-	ZeroMemory(&input,sizeof(INPUT));
-	input.type = INPUT_MOUSE;
-	input.mi.dwFlags = MOUSEEVENTF_RIGHTDOWN;
-	SendInput(1,&input,sizeof(INPUT));
-}
-
-void prawyPusc(){ //puszcza prawy klawisz
-	INPUT input;
-	ZeroMemory(&input,sizeof(INPUT));
-	input.type = INPUT_MOUSE;
-	input.mi.dwFlags = MOUSEEVENTF_RIGHTUP;
-	SendInput(1,&input,sizeof(INPUT));
-}
-
-void przesun(int x, int y){ //przesuwa kursor o x w poziomie i y w pionie
-	POINT pos;
-	ZeroMemory(&pos,sizeof(POINT));
-	GetCursorPos(&pos);
-	SetCursorPos(pos.x+x,pos.y+y);
-}
 /*
 	SERCE PROGRAMU:
 	-	binaryzacja
@@ -398,11 +378,11 @@ void binary(){
 		cout << "zatwierdzam nowy gest" << endl;
 		if(ruch==1){
 			if(gestUstalony==PALEC) {
-				lewyPusc();
+				SystemAPI::releaseLeft();
 				cout << "lewy pusc" << endl;
 			}
 			else if(gestUstalony==PIESC){
-				prawyPusc();
+				SystemAPI::releaseRight();
 				cout<<"prawy pusc"<<endl;
 			}
 		}
@@ -411,11 +391,11 @@ void binary(){
 		//jesli przechwytywanie jest wlaczone
 		if(ruch==1){
 			if(gestUstalony==PALEC){
-				lewyNacisnij();
+				SystemAPI::pressLeft();
 				cout<<"lewy nacisnij"<<endl;
 			}
 			else if(gestUstalony==PIESC){
-				prawyNacisnij();
+				SystemAPI::pressRight();
 				cout<<"prawy nacisnij"<<endl;
 			}
 		}
