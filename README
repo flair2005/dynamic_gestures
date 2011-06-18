@@ -1,5 +1,5 @@
 Celem projektu jest rozpoznawanie dynamicznych gestów wykonywanych przy pomocy dłoni. Wybrane gesty służą do emulacji komunikatów sterujących interfejsem graficznym komputera (otwieranie okien, zamykanie okien, przesuwanie kursora).
 
 Przetwarzanie obrazu z kamery / pliku .avi będzie oparte na bibliotece OpenCV.
-Do rozpoznawania gestów będziemy wykorzystywać algorytm HMM (ang. Hidden Markov Model).
+Do rozpoznawania gestów będziemy wykorzystywać algorytm HMM (ang. Hidden Markov Model). Jeżeli się uda to wykorzystamy bibliotekę HTK.
 Emulacja komunikatów systemowych będzie tworzona dla środowiska Windows.
