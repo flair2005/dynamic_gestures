@@ -44,8 +44,7 @@ TODO LIST:
 - wyznaczanie wektorów przesunięcia (na podstawie kodu z projektu Temporal HMM),
   na ich podstawie będzie działał Markow (ustalić jak to dokładnie ma wyglądać na
   podstawie podręcznika do biblioteki)
-- obsługa biblioteki HTK (do Markowa) - albo poprzez osobną klasę, albo bezpośrednio
-  funkcje z biblioteki - się zobaczy jak to będzie wyglądało w praktyce; przy
+- obsługa Markowa - albo poprzez istniejącą bibliotekę, albo stworzyć własną; przy
   określonym geście, np całej dłoni, sterujemy kursorem, przy innym geście klikamy,
   a pozostałe gesty są na Markowa
 - sterowanie kursorem oprzeć na bazie wektorów przesunięcia! dzięki temu nie będzie
