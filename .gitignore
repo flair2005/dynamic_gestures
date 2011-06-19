@@ -23,3 +23,7 @@ SRC/bin/Debug
 ehthumbs.db
 Icon?
 Thumbs.db
+
+# other #
+#########
+SRC/dynamic_gestures.layout

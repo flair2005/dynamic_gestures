@@ -60,6 +60,7 @@ TODO LIST:
 
 */
 
+#include <cstdio>
 #include <iostream>
 #include <cv.h>
 #include <highgui.h>
