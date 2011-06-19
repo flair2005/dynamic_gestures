@@ -11,7 +11,7 @@
 //definicja potrzebna, aby korzystac z WinAPI (biblioteki WinAPI sprawdzają
 //ten parametr i jeżeli nie jest dobrze ustawiony to nie zalaczaja sie)
 #ifndef _WIN32_WINNT
-#define _WIN32_WINNT 0x0500
+#define _WIN32_WINNT 0x0601
 #endif
 
 #include <windows.h>

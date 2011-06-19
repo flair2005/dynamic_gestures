@@ -47,6 +47,8 @@ TODO LIST:
 - obsługa Markowa - albo poprzez istniejącą bibliotekę, albo stworzyć własną; przy
   określonym geście, np całej dłoni, sterujemy kursorem, przy innym geście klikamy,
   a pozostałe gesty są na Markowa
+- na początku przygotować na sztywno dane do uczenia się Markowa - ewentualnie
+  później dodamy możliwość uczenia się na podstawie gestów użytkownika
 - sterowanie kursorem oprzeć na bazie wektorów przesunięcia! dzięki temu nie będzie
   tak dziwnie latał - wektory przesunięcia powstają na podstawie kilku minimalnych
   ruchów, więc będą uśredniały niedoskonałości i powinno się polepszyć sterowanie
